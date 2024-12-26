@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: diskSED
+Version: 1.0.0
+Summary: Model to fit full SED (X-ray spectra and UV/opt data) of compact accretion disk around black holes. Includes also other tools for fully exploration of the fitting results.
+Home-page: https://github.com/muryelgp/diskSED
+Download-URL: https://github.com/muryelgp/diskSED.git
+Author: Muryel Guolo
+Author-email: mguolop1@jhu.edu
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: astropy
+
+# diskSED
