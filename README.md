@@ -47,7 +47,7 @@ The **Examples** folder contains several [Jupyter notebooks](https://jupyter.org
 
 If you use the **diskSED** model in any publication, please cite [Guolo & Mummery (2025)](https://arxiv.org/abs/2408.17296) along with its dependencies.
 
-#### Example of papers using diskSED
+#### Examples of papers using diskSED
 - *Add GSN069*
 - *Add eRO-QPE2*
 
