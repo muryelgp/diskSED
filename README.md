@@ -56,6 +56,7 @@ These papers provide examples of how to describe the model and properly cite dep
 ## Recomended Reading
 
 * [Statistical Aspects of X-ray Spectral Analysis](https://arxiv.org/abs/2309.05705) by J. Buchner & P. Boorman.
+* [Dos and don'ts of reduced chi-squared](https://arxiv.org/pdf/1012.3754) by Andrae et al.
 * [BXA tutorial](https://peterboorman.com/tutorial_bxa.html) by P. Boorman.
 * [Practical Inference for Researchers in the Physical Sciences](https://johannesbuchner.github.io/PracticalInferenceForResearchersInThePhysicalSciencesCourse/) by  F. Capel & J. Buchner.
   
