@@ -41,7 +41,7 @@ The **Examples** folder contains several [Jupyter notebooks](https://jupyter.org
 - **`fitting.ipynb`**: Shows how to load data, configure the model, and perform Bayesian fitting using pyXSPEC/BXA/UltraNest.
 - **`fancy_plots.ipynb`**: Provides instructions for generating plots of data, observed and intrinsic model SEDs, corner plots, and parameter histograms.
 - **`properties.ipynb`**: Explains how to estimate secondary parameters from the fit results (e.g., Black Hole Mass, outer radius in Rg, Bolometric Luminosity, and Eddington Ratio).
-- *Planned Updates:* Advanced techniques like multi-epoch fitting, non-standard priors, or non-standard likelihood functions (e.g., including upper limits). See papers in **Citations** for examples.
+- *Planned Updates:* Advanced techniques like multi-epoch joint fitting, non-standard priors, or non-standard likelihood functions (e.g., including upper limits), aditionon of non-thermal components, etc. See papers in **Citations** for examples.
 
 ## Citations
 
