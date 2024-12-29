@@ -55,11 +55,18 @@ These papers provide examples of how to describe the model and properly cite dep
 
 ## Recomended Reading
 
+#### Statistics
 * [Statistical Aspects of X-ray Spectral Analysis](https://arxiv.org/abs/2309.05705) by J. Buchner & P. Boorman.
 * [Dos and don'ts of reduced chi-squared](https://arxiv.org/pdf/1012.3754) by Andrae et al.
+
+#### Relevant Software Tutorial/Lectures
 * [BXA tutorial](https://peterboorman.com/tutorial_bxa.html) by P. Boorman.
 * [Practical Inference for Researchers in the Physical Sciences](https://johannesbuchner.github.io/PracticalInferenceForResearchersInThePhysicalSciencesCourse/) by  F. Capel & J. Buchner.
+
+#### Time-dependent Disk Theory
+* [The Disk Accretion of a Tidally Disrupted Star onto a Massive Black Hole](https://ui.adsabs.harvard.edu/abs/1990ApJ...351...38C/abstract) by Cannizzo et al.
 * [The spectral evolution of disc dominated tidal disruption events](https://arxiv.org/abs/1912.06577) by Mummery & Balbus
+* [Fundamental scaling relationships revealed in the optical light curves of tidal disruption events](https://arxiv.org/abs/2308.08255) by Mummery et al.
 * [Fitting transients with discs (FitTeD): a public light curve and spectral fitting package based on evolving relativistic discs](https://arxiv.org/abs/2408.15048) by Mummery et al.
   
 ## Comments & Contact
