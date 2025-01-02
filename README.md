@@ -6,7 +6,7 @@ This repository hosts the **diskSED** model, as described in [Guolo & Mummery (2
 
 ## Requirements
 
-### Basic (Standard Minimization)
+### Basic (Standard XSPEC Minimization)
 - Python 3
 - Astropy
 - NumPy
