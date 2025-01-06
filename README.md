@@ -77,5 +77,4 @@ These papers provide examples of how to describe the model and properly cite dep
 - Please note that we are not responsible for any misuse of the model, nor do we endorse results derived from it a priori. Users are encouraged to apply caution and sound scientific judgment. The model's assumptions and limitations are described in the original paper, particularly on sections 1 and 5, aditional questions can be send by email.
 - For general inquiries, contact me at **mguolop1@jhu.edu**. Please check the tutorials first to see if your question has already been addressed.
 
-Thank you for using **diskSED**!
 
