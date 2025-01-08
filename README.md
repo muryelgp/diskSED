@@ -48,8 +48,8 @@ The **Examples** folder contains several [Jupyter notebooks](https://jupyter.org
 If you use the **diskSED** model in any publication, please cite [Guolo & Mummery (2025)](https://arxiv.org/abs/2408.17296) along with its dependencies.
 
 #### Examples of papers using diskSED
-- *Add GSN069*
-- *Add eRO-QPE2*
+- [The properties of GSN 069 accretion disk from a joint X-ray and UV spectral analysis](https://arxiv.org/abs/2501.03333) by M. Guolo, A. Mummery, et al.
+- [Time-resolved Hubble Space Telescope UV observations of an X-ray quasi-periodic eruption source](https://arxiv.org/abs/2501.03335) by T. Wevers, M. Guolo, et al.
 
 These papers provide examples of how to describe the model and properly cite dependencies. If these works have influenced or motivated your research, you are encouraged to cite them as well.
 
